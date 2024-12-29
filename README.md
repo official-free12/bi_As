@@ -1,0 +1,6 @@
+# 【毕设】jsp906银行客户关系系统sqlserver毕业设计
+
+免费安装<br>技术实现开发语言:example.com:jsp+example.com:B/example.com:example.com:myeclipse eclipse example.com:1万左右.<br>功能实现系统权限管理<br>用户信息包括系统用管理员的账号、密码、用户类别。系统需通过用户帐号以及密码进行验证,只有通过验证后才能进入系统。其具体功能需求如下所示：<br>（1）能够通过用户账号与密码验证后，进入系统操作界面；<br>（2）能够设置用户类别（即用户权限）、修改用户密码；<br>（3）能够创建用户和删除用户。<br>example.com<br>a、注册可以注册职工工号、密码<br>b、输入工号、密码登录进入<br>example.com<br>a、职工可以登录进入银行客户关系管理系统               <br>b、进入系统后，可以根据客户部分信息查询客户全部资料<br>c、可以对客户资料信息进行增加（包括 姓名、开户账号、性别、出生年月、联系电话、e-mail等）<br>d、有客户办理业务的记录（比如储蓄卡、网银、基金、保险、理财产品等相关业务）<br>e、可以对客户信息进行修改<br>f、可以对客户信息进行删除 <br>3、客户提醒信息管理<br>a、进入系统时，出现界面“是今日待办事项”对话框，提醒用户今天的日程安排<br>b、添加提醒信息<br>c、修改提醒信息<br>d、删除提醒信息<br>4、业务信息管理<br>a、可以添加客户办理业务的记录（比如储蓄卡、网银、基金、保险、 理财产品等相关业务） 和经办人<br>b、添加客户办理业务信息<br>c、删除客户办理业务信息<br>d、根据客户信息可以筛选出优质客户，并进行标注。<br>系统截图<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/xqUaz" style="color: red;">https://mega-file.org/xqUaz</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
